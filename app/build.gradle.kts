@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.emsi.aisun"
-        minSdk = 35
+        minSdk = 31
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
@@ -49,4 +49,8 @@ dependencies {
 
     // Permissions
     implementation ("com.karumi:dexter:6.2.3")
+
+    implementation ("com.google.android.libraries.places:places:3.3.0")
+    implementation ("com.google.android.gms:play-services-maps:18.2.0")
+    implementation ("com.github.MKergall:osmbonuspack:6.9.0") // Pour OpenStreetMap
 }
