@@ -32,3 +32,7 @@ A scientific Android application for real-time UV index monitoring with personal
 1. Clone the repository:
 ```bash
 git clone https://github.com/Khaoula2001/AI-Sun-Mobile-App.git
+
+https://github.com/user-attachments/assets/c1fc0813-5c23-4036-84f0-747faf384caa
+
+
